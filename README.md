@@ -55,4 +55,20 @@ cataract-detection/
 ├── README.md
 └── requirements.txt
 
+How to Run
+1. Clone the repository
+git clone <your-repository-link>
+cd cataract-detection
+2. Install dependencies
+pip install -r requirements.txt
+3. Run the notebook
 
+Open:
+
+notebook/ds_capstone.ipynb
+
+and run the cells sequentially.
+
+Result
+
+Test Accuracy: 94.21%
